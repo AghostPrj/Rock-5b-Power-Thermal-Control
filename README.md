@@ -1,5 +1,7 @@
 # Rock-5b Power Thermal Control
 
+Rock-5b 外挂的实际电源输入监控以及风扇控制，上位机程序附带了HomeAssistant接入
+
 ## 文件说明
 
 |                 目录                 |                  说明                   |
