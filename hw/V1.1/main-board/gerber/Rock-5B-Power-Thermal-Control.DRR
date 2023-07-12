@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Rock-5B-Power-Thermal-Control.PcbDoc   2023/7/1  3:25:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Rock-5B-Power-Thermal-Control-RoundHoles.TXT
+ASCII SlotHoles File : Rock-5B-Power-Thermal-Control-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             25        PTH        1.08inch (27.50mm)
+T2      10mil (0.25mm)                                            Round             64        PTH        9.38inch (238.22mm)
+T3      12mil (0.3mm)                                             Round             310       PTH        35.68inch (906.28mm)
+T4      16mil (0.4mm)                                             Round             127       PTH        14.48inch (367.88mm)
+T5      20mil (0.5mm)                                             Round             2         PTH        0.97inch (24.52mm)
+T6      28mil (0.7mm)                                             Round             2         PTH        0.23inch (5.78mm)
+T7      28mil (0.7mm)                                             Slot              4         PTH        1.49inch (37.94mm)
+T8      35mil (0.9mm)                                             Round             16        PTH        5.37inch (136.30mm)
+T9      55mil (1.4mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T10     126mil (3.2mm)                                            Round             4         PTH        3.15inch (80.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              556
+
+Total Processing Time (hh:mm:ss) : 00:00:00

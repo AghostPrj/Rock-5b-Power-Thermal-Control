@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\workspace\altium\Projects\Rock-5B-Power-Thermal-Control\Rock-5B-Power-Thermal-Control.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rock-5b-power-thermal-control-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rock-5b-power-thermal-control-slotholes.txt|DrillLayers=gtl,gbl
