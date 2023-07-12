@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:AghostPrj/rock-5b-power-thermal-firmware.git
+[submodule "master-program"]
+	path = master-program
+	url = git@github.com:AghostPrj/rock-5b-power-thermal.git
